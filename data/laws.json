@@ -1,0 +1,348 @@
+{
+  "credits": {
+    "heading": "Credits",
+    "developerLabel": "Developer",
+    "developerName": "Monish Bairagi",
+    "attribution": "The 48 Laws of Power is a book by Robert Greene. The words on this site are my own short summaries, written to help people learn.",
+    "disclaimer": "This is an independent project. It is not connected to the author or the publisher of the book.",
+    "backLabel": "Back to all laws"
+  },
+  "laws": [
+    {
+      "number": 1,
+      "title": "Never Outshine the Master",
+      "short": "Do not make your boss feel less smart than you. Let them shine first.",
+      "defined": "People in charge want to feel respected and safe in their position. If you show that you are smarter than your boss, they may feel afraid or angry. So help your boss look good. Share the credit with them. Show your skills in a way that supports them and does not shame them.",
+      "scenario": "Monish finds a mistake in his architect's design during a review. He does not point it out in front of everyone. Instead, he sends a private note with a better idea and a small diagram. The architect uses the fix, thanks Monish in the next meeting, and later suggests him for a senior role."
+    },
+    {
+      "number": 2,
+      "title": "Never Put Too Much Trust in Friends, Learn How to Use Enemies",
+      "short": "Friends may become jealous and let you down. A former rival can be more reliable.",
+      "defined": "Close friends know your weak points. Sometimes they feel jealous or expect special favors. A former rival has no such feelings, and often works harder to prove their worth. So judge people by what they do, not by how friendly they are. Be open to working with people you once competed with.",
+      "scenario": "Monish tells a close teammate that he wants a promotion. Soon after, the teammate asks for the same role. Monish feels hurt, but he thinks about it calmly. He starts working with Ravi, a rival from another team. Ravi is honest and reliable. Monish learns to trust actions more than friendly words."
+    },
+    {
+      "number": 3,
+      "title": "Conceal Your Intentions",
+      "short": "Keep your real goals to yourself so nobody can block them.",
+      "defined": "If people know what you want, they can stop you or use it against you. When you keep your real goal private, others cannot guess your next step. You can move calmly and quietly. Share your plan only when it is too late for anyone to stop it.",
+      "scenario": "Monish wants to move from backend work to the platform team, but he tells no one. He helps with small tasks for that team and writes clear notes. He only talks about helping with their workload. When a job opens up, the platform lead already trusts him, and Monish gets the role."
+    },
+    {
+      "number": 4,
+      "title": "Always Say Less Than Necessary",
+      "short": "The more you talk, the more mistakes you make. Say less, and people listen more.",
+      "defined": "Long talk can show your doubts and your secrets. It can also make you sound less serious. Short and clear words sound strong and confident. Silence makes other people curious and a little nervous, and they often fill the quiet with more information. This gives you a stronger position.",
+      "scenario": "In a salary talk, Monish states what he wants one time and then stays quiet. The manager feels uncomfortable with the silence and offers a higher number. Monish says he will think about it overnight. The next day, he gets a better offer than he had planned to ask for."
+    },
+    {
+      "number": 5,
+      "title": "So Much Depends on Reputation – Guard It with Your Life",
+      "short": "Your name opens doors. Build a good one and protect it.",
+      "defined": "A good reputation is like a shield. People trust you before you even speak. But it is hard to repair once it is damaged. Be known for one clear strength. Protect your name in everything you do. If someone spreads a false story about you, answer it quickly and calmly with facts.",
+      "scenario": "Monish is known in his office as the engineer whose code is careful and whose releases never break. Someone says his team caused a big outage. Monish stays calm and shows the logs that prove the real cause. People trust his long record, so they ignore the rumor and move on."
+    },
+    {
+      "number": 6,
+      "title": "Court Attention at All Costs",
+      "short": "If nobody sees you, nobody remembers you. Make yourself visible.",
+      "defined": "In a busy world, quiet people are often forgotten. People who stand out get more chances. You do not need to be loud, but you do need to be seen and remembered. Find a way to show your work and your ideas so that people know your name.",
+      "scenario": "Monish solves hard problems, but senior managers barely know his name. He feels shy about it, yet he starts giving short updates in the weekly demo. He also writes a small post about a fix he found. After a few months, leaders ask for him by name when an important project starts."
+    },
+    {
+      "number": 7,
+      "title": "Get Others to Do the Work for You, but Always Take the Credit",
+      "short": "Use other people's skills and effort, and make sure your name is linked to the result.",
+      "defined": "Your time and energy are limited, but there are many skilled people around you. A smart leader brings talented people together and guides their work. The result is then seen as the leader's vision. Be careful to do this fairly, so that it looks like teamwork and everyone feels respected.",
+      "scenario": "Monish is asked to lead a tool upgrade. He picks three colleagues who are each strong in a different area. He writes a short plan and gives each person a part. In the final meeting, he presents the result and names every helper. Everyone sees Monish as the person who led the whole effort."
+    },
+    {
+      "number": 8,
+      "title": "Make Other People Come to You – Use Bait if Necessary",
+      "short": "When people come to you, you are in control. Give them a reason to come.",
+      "defined": "The person who chases usually has less power. If others come to you, you can stay calm and set the pace. A useful or attractive offer can pull people toward you. Once they arrive, you decide the time, the place, and how the talk goes.",
+      "scenario": "Monish stops sending messages to other teams to use his shared library. Instead, he writes a simple guide and a small demo, and puts them on the company wiki. Several teams read them and like them. They ask Monish for a meeting, so they come to him at a time that suits him."
+    },
+    {
+      "number": 9,
+      "title": "Win Through Your Actions, Never Through Argument",
+      "short": "Show your idea working. People forget arguments, but they remember what they see.",
+      "defined": "When you argue, people get defensive, even if you are right. They may stay angry after the talk ends. If you show proof instead, people see the truth on their own. This feels like their own discovery, not a defeat. Let your results and facts do the talking.",
+      "scenario": "Monish thinks the team should write automated tests, but some colleagues disagree in meetings. He does not argue. He adds tests to his own module and tracks the bugs for two sprints. The number of bugs drops clearly. His colleagues see the proof and ask him to teach them."
+    },
+    {
+      "number": 10,
+      "title": "Infection: Avoid the Unhappy and Unlucky",
+      "short": "Moods spread like a cold. Stay away from people who always bring you down.",
+      "defined": "Feelings are catching. People who always complain or who always have bad luck can pull you down with them. Some people need help once, and that is fine. But some people have the same problems again and again. Be kind, but protect your own energy and focus.",
+      "scenario": "A coworker complains about management at every coffee break. Monish sees that his own focus is getting worse. He politely starts taking his breaks with people who talk about ideas and projects. After a few weeks, his mood and focus are better. He still stays kind to the coworker."
+    },
+    {
+      "number": 11,
+      "title": "Learn to Keep People Dependent on You",
+      "short": "Be valuable in a way that is hard to replace, and people will want to keep you.",
+      "defined": "If people can easily do without you, they may forget you. But if you have a skill or knowledge that others need, they will want you around. The goal is not to trap anyone. The goal is to be so useful that losing you would cost them a lot.",
+      "scenario": "Monish builds the deployment pipeline and knows its hardest parts better than anyone. His notes are clear, but people still come to him for his judgment before every release. Later, the company must cut costs. Managers keep Monish in his role because his skills are very hard to replace."
+    },
+    {
+      "number": 12,
+      "title": "Use Selective Honesty and Generosity to Disarm Your Victim",
+      "short": "One honest act or one gift can make people lower their guard.",
+      "defined": "People relax when they feel someone is honest or kind to them. A small honest admission or a thoughtful gift can build trust fast. This law also teaches you to notice when kindness is used as a tool. Be aware of it in others, and be careful how you use it yourself.",
+      "scenario": "Before a hard talk with a vendor, Monish admits a small mistake his team made last quarter. He also offers a helpful script he wrote. The vendor is happy with his honesty and relaxes. In the end, the vendor agrees to extend the support contract and asks for fewer extras."
+    },
+    {
+      "number": 13,
+      "title": "When Asking for Help, Appeal to People's Self-Interest, Never to Their Mercy or Gratitude",
+      "short": "People help when it benefits them. Show what they gain, do not beg.",
+      "defined": "Asking for pity can make people uncomfortable, and thanks are soon forgotten. A clear benefit gives people a real reason to help you. Before you ask, think about what the other person wants. Then explain your request in a way that also helps them.",
+      "scenario": "Monish needs a senior architect to review his proposal, but he does not like asking for favors. He explains that the review will show her a cost saving that supports her own team goals. She agrees quickly and gives detailed feedback. Her advice makes his proposal much stronger."
+    },
+    {
+      "number": 14,
+      "title": "Pose as a Friend, Work as a Spy",
+      "short": "Learn what others want and fear by chatting with them in a friendly way.",
+      "defined": "Information is power. People share the most when they feel safe and relaxed. Friendly talk and good questions can teach you things that formal meetings never will. Remember that others can do the same to you, so be careful about what you share about yourself.",
+      "scenario": "Before bidding on an internal project, Monish has a casual chat with an engineer from a rival team in the cafeteria. He asks easy questions about their work. He learns that they are very busy. So Monish stresses in his proposal that his team is free and can deliver fast. He wins the project."
+    },
+    {
+      "number": 15,
+      "title": "Crush Your Enemy Totally",
+      "short": "A half-finished fight can come back later. End real conflicts fully and firmly.",
+      "defined": "If you stop halfway, a rival may come back angry and stronger. This law says to end a real threat completely. It is a harsh idea, and it has limits. A wise person should also think about fairness and long-term goodwill before using it.",
+      "scenario": "A colleague keeps showing Monish's work as his own. Monish writes down every case and calmly shows the facts to his manager and HR. He asks for a clear rule about who owns each piece of work. The matter is settled firmly, and the colleague can no longer take credit or take revenge."
+    },
+    {
+      "number": 16,
+      "title": "Use Absence to Increase Respect and Honor",
+      "short": "Being around all the time makes you ordinary. Step back, and people value you more.",
+      "defined": "When people see you all the time, you become common, and the mystery is gone. A short time away makes people notice what you give them and miss it. Use this carefully. If you stay away too long or at the wrong moment, people simply forget you.",
+      "scenario": "Monish answers messages at all hours, so people see his help as normal and expect it. He starts to block quiet hours for deep work and replies only twice a day. When he does reply, his answers are careful and useful. Colleagues now respect his time and value his help more."
+    },
+    {
+      "number": 17,
+      "title": "Keep Others in Suspended Terror: Cultivate an Air of Unpredictability",
+      "short": "If people cannot guess what you will do, they stay careful around you.",
+      "defined": "When people can predict you, they can plan around you and even use you. A little surprise keeps them alert and respectful. This does not mean being cruel or messy. Your surprises should look purposeful, and you should not break the trust of people you depend on.",
+      "scenario": "Monish always gives estimates in the same format, so stakeholders know how to bargain them down. At the next planning meeting, he shows a different breakdown and a surprising risk analysis. The stakeholders listen more closely and ask better questions. They stop assuming they know what he will say."
+    },
+    {
+      "number": 18,
+      "title": "Do Not Build Fortresses to Protect Yourself – Isolation Is Dangerous",
+      "short": "Hiding alone cuts you off from news and help. Stay connected to people.",
+      "defined": "Being alone feels safe, but it blinds you to change. When trouble comes, you also have no friends to help. Move among people and listen to what is happening. A wide network of contacts keeps you informed and ready, much better than hiding behind walls.",
+      "scenario": "Monish likes to work alone with his headphones on and skips office events. After a company change, he finds that he missed news about a new plan and has few allies. He starts weekly coffee chats with people from other teams. Soon he hears about changes early and has more support."
+    },
+    {
+      "number": 19,
+      "title": "Know Who You're Dealing With – Do Not Offend the Wrong Person",
+      "short": "People are different. Learn who someone is before you challenge or joke about them.",
+      "defined": "Some people forget an insult quickly. Others plan revenge for years. Before you act, learn about the person in front of you. Notice how they take criticism, what they are proud of, and how they treat others. A little study can save you from making a costly enemy.",
+      "scenario": "In a meeting, Monish jokes about an old software module in front of a senior director. He does not know that she built it. Afterward, she is cold to him. Monish learns to ask about people's background before meetings. He also apologizes sincerely, and slowly the relationship gets better."
+    },
+    {
+      "number": 20,
+      "title": "Do Not Commit to Anyone",
+      "short": "Stay independent. Let others try to win your support instead of joining one side.",
+      "defined": "If you take a side, you join someone else's fight and lose your choices. If you stay free, people will try to win you over, and your value goes up. This is not about being disloyal. It means being friendly with everyone while keeping your own judgment.",
+      "scenario": "Two managers fight for control of a big project, and both ask Monish to join their side. He thanks both of them and stays friendly. He keeps his focus on the quality of his code. Both managers keep trying to win him over. When the fight is over, everyone still trusts Monish."
+    },
+    {
+      "number": 21,
+      "title": "Play a Sucker to Catch a Sucker – Seem Dumber than Your Mark",
+      "short": "People relax around those who seem less clever. Looking simple can lower their guard.",
+      "defined": "Almost everyone likes to feel clever. If people think they are smarter than you, they stop being careful and tell you more than they should. Use this idea rarely and honestly. If people think you are truly foolish, you may lose respect when you need it most.",
+      "scenario": "Monish asks a vendor's engineer many basic questions about a new cloud tool. The engineer enjoys being the expert and explains everything, even the limits and the strange prices. Monish had already read the documents carefully. He uses what he learns to get a better contract."
+    },
+    {
+      "number": 22,
+      "title": "Use the Surrender Tactic: Transform Weakness into Power",
+      "short": "Giving in at the right time can buy you time and prepare a stronger comeback.",
+      "defined": "When you are weaker, a direct fight can ruin you. A calm retreat makes the stronger side feel they have won. Meanwhile, you keep your strength and wait for a chance. In this sense, surrender is a pause, not a permanent defeat.",
+      "scenario": "A senior colleague wants a design that Monish does not agree with. Monish does not fight openly. He agrees to build it the senior's way in the first phase, and quietly collects performance data. Later, the numbers show the problem. The team asks Monish for a better design, and it is accepted."
+    },
+    {
+      "number": 23,
+      "title": "Concentrate Your Forces",
+      "short": "Put your energy into one strong area, not many weak ones.",
+      "defined": "If you spread yourself thin, you stay shallow in everything. When you put your time, money, and attention in one promising place, you go deep and gain strength. Find where your effort gives the biggest return, and keep working there until it makes you strong.",
+      "scenario": "Monish used to work on five side projects and join many committees, but he had little to show. He chooses one area, observability, and spends a year mastering it. He writes internal guides and builds tools. Soon the whole company asks him about monitoring, and he is promoted to principal engineer."
+    },
+    {
+      "number": 24,
+      "title": "Play the Perfect Courtier",
+      "short": "Learn the social skills of powerful places: good manners, tact, and awareness of everyone's mood.",
+      "defined": "Wherever there are levels of power, there are people watching each other. To do well, you must read the room, speak politely, avoid open fights, and make leaders feel comfortable. These habits decide how far you can grow in any organization.",
+      "scenario": "Monish sees that his director likes short written summaries, while the vice president likes detailed numbers. He changes every update to match. He avoids gossip and thanks teammates in public. Over time, leaders see him as dependable and polished. They ask for him on their most visible projects."
+    },
+    {
+      "number": 25,
+      "title": "Re-Create Yourself",
+      "short": "Do not accept the role others give you. Shape your own image and keep it fresh.",
+      "defined": "Society likes to put people in boxes. You can break out of the box by taking charge of how you look, speak, and act. Think of yourself as both the writer and the actor of your own story. Change your style when the old one stops helping you.",
+      "scenario": "People see Monish as a quiet coder who stays in the background. He decides to change this. He takes a public speaking course and gives short talks about what he has learned. He also starts to describe himself as a problem solver. Colleagues see him in a new way, and he is offered a lead role."
+    },
+    {
+      "number": 26,
+      "title": "Keep Your Hands Clean",
+      "short": "Look spotless. Let others handle the messy jobs so blame does not land on you.",
+      "defined": "Every leader must sometimes do unpleasant things that can hurt their image. By using helpers or other people to deliver the bad news, you protect your own name. This law makes you think about who takes responsibility. It also has a moral risk if it is used in the wrong way.",
+      "scenario": "Monish's manager must announce an unpopular change to the on-call schedule. Monish helps by preparing clear data on all the options. The manager delivers the message. Monish stays out of the complaints. Everyone still sees him as a fair and trusted voice in the team."
+    },
+    {
+      "number": 27,
+      "title": "Play on People's Need to Believe to Create a Cultlike Following",
+      "short": "People want something to believe in. Give them a clear purpose and a feeling of belonging.",
+      "defined": "When life feels uncertain, people look for meaning and a community. A leader who gives a simple, inspiring goal and a shared identity can gather loyal followers. This law explains how strong loyalty forms. It also warns that this power can be easily misused.",
+      "scenario": "Monish starts a small reading circle at work where engineers talk about clean code. The group has a simple name, a motto, and a monthly demo night. People enjoy belonging to something with a shared purpose. Soon dozens of people join and follow the good practices that Monish suggests."
+    },
+    {
+      "number": 28,
+      "title": "Enter Action with Boldness",
+      "short": "Doubt leads to failure. When you act, act fully and with confidence.",
+      "defined": "A shy, half-hearted action looks weak and gives others time to resist. A bold action, even if risky, shows strength and often carries you past problems. Once you decide to move, put your full energy into it. A weak try often costs more than a strong one.",
+      "scenario": "For months, Monish hesitates to propose a big code cleanup. He keeps doubting himself. At last, he writes the proposal, books the meeting, and presents it with calm confidence. Leaders are impressed and approve the funding. His earlier delay had only made his colleagues doubt the idea."
+    },
+    {
+      "number": 29,
+      "title": "Plan All the Way to the End",
+      "short": "Think through every step to the final result before you begin.",
+      "defined": "Beginnings are exciting, but the ending decides success. Imagine what will happen at each step, including how you will finish. Prepare for problems early. Careful planning keeps your feelings from leading you and helps you stay clear when things change.",
+      "scenario": "Before a release, Monish plans more than the launch date. He also plans monitoring, support staff, messages to customers, and a rollback plan. On launch night, a surprise problem appears. Monish follows the prepared steps and fixes the service within an hour, while other teams are still struggling."
+    },
+    {
+      "number": 30,
+      "title": "Make Your Accomplishments Seem Effortless",
+      "short": "Hide the hard work behind your results so they look natural and easy.",
+      "defined": "When people see you struggle, your success looks ordinary. Practice in private, and show only the finished result with calm ease. Then people see skill instead of struggle. Be careful that you do not look careless. The goal is smooth grace, not laziness.",
+      "scenario": "Monish spends his evenings practicing a technical talk until every slide flows well. On the day, he gives it with relaxed humor and no notes. His colleagues think he is a natural speaker. The conference team invites him to the company summit, never knowing how much practice was behind it."
+    },
+    {
+      "number": 31,
+      "title": "Control the Options: Get Others to Play with the Cards You Deal",
+      "short": "Give people choices that all lead where you want. They feel free, but you guide them.",
+      "defined": "When you decide which choices exist, you can guide a decision without force. People like to choose, and they rarely notice that the list was prepared for them. Offer a small number of well-planned options. Make sure that each one is fine for you.",
+      "scenario": "Monish needs approval for new tools. He does not ask a yes-or-no question. Instead, he gives his manager two options, and both fit his plan. He asks which one she prefers. She picks one and feels in control of the decision. Either way, Monish gets the tools he needs."
+    },
+    {
+      "number": 32,
+      "title": "Play to People's Fantasies",
+      "short": "Real life can feel boring. Offer people a dream that lets them escape it.",
+      "defined": "People are attracted to hopes of a better life, such as adventure, success, or quick change. Whoever paints a clear picture of that dream gets strong attention. This law shows how powerful stories are. It also reminds us that promises must be honest to last.",
+      "scenario": "Monish pitches a new dashboard to managers. He stops listing technical features. Instead, he describes a manager who opens one screen on Monday morning and sees the whole project clearly. The stakeholders picture that calm feeling for themselves. They approve the funding for the project with great interest."
+    },
+    {
+      "number": 33,
+      "title": "Discover Each Man's Thumbscrew",
+      "short": "Everyone has a soft spot, a strong need or a fear. Knowing it gives you influence.",
+      "defined": "Behind every person is a need, a fear, or a wish that drives their choices. Small habits, complaints, and reactions can show it. Understanding this helps you speak to what really matters to them. But using it to hurt or trick people has a serious moral cost.",
+      "scenario": "While hiring, Monish notices that a strong candidate often says he has little time to learn new things. Monish talks about the company's learning budget and quiet focus days, not just salary. The candidate accepts the job, even though another company offered a little more money."
+    },
+    {
+      "number": 34,
+      "title": "Be Royal in Your Own Fashion: Act Like a King to Be Treated Like One",
+      "short": "Carry yourself with confidence and dignity. People value you as you value yourself.",
+      "defined": "People usually accept the price you put on yourself. If you act shy and say sorry all the time, people treat you that way. If you show calm and self-respect, they respect you too. Your dignity should feel natural, steady, and without pride.",
+      "scenario": "Monish used to say sorry when he shared his ideas, so people often ignored them. Now he presents his proposals with calm certainty and clear reasons, without apologies. People pay more attention. They ask for his opinion and give his work the respect that it deserves."
+    },
+    {
+      "number": 35,
+      "title": "Master the Art of Timing",
+      "short": "Know when to act, when to wait, and when to step back.",
+      "defined": "Good timing needs patience and attention to how events are moving. If you rush, you waste your chance. If you wait too long, the chance is gone. Watch the mood of people and situations. Stay calm when the time is wrong, and act when it is right.",
+      "scenario": "Monish wants to ask for a team transfer, but the company is having a hard quarter. He waits until his team celebrates a big release. Then he makes his request and shows proof of his results. His manager is in a good mood and impressed, so she approves it right away."
+    },
+    {
+      "number": 36,
+      "title": "Disdain Things You Cannot Have: Ignoring Them Is the Best Revenge",
+      "short": "Caring about what you cannot get gives it power over you. Calm indifference takes it away.",
+      "defined": "If you get angry about a small insult or complain about something out of reach, it shows that it matters to you. When you act as if you do not care, you take away the other person's reward. Choose your battles and let small irritations pass.",
+      "scenario": "A coworker keeps making sarcastic remarks to upset Monish in stand-up meetings. Monish is a deep thinker and does not want to waste energy. He stops replying and simply continues his work. With no reaction to enjoy, the coworker loses interest, and the team notices Monish's calm."
+    },
+    {
+      "number": 37,
+      "title": "Create Compelling Spectacles",
+      "short": "Strong images and bold gestures catch attention and stay in memory longer than words.",
+      "defined": "People respond to pictures and symbols more than to arguments. A strong image or event touches the feelings and gives your message weight. Use symbols and good presentation to create moments that people remember, share, and talk about long after the event is over.",
+      "scenario": "To promote better code quality, Monish builds a live dashboard on a big office screen. It shows a small tree that grows as the team's test coverage goes up. Colleagues gather around it, joke about it, and compete to make the tree bloom. The test coverage rises quickly."
+    },
+    {
+      "number": 38,
+      "title": "Think as You Like but Behave Like Others",
+      "short": "Keep unusual opinions private. In public, follow the common customs.",
+      "defined": "Standing out with unusual ideas can bring distrust and anger. If you follow normal manners, you avoid trouble and still keep your freedom to think. Choose carefully when to show your differences. Do it when people will value them, not punish them.",
+      "scenario": "Monish does not agree with the slow approval process at work, but he follows it without complaint. In private, he tests lighter ideas in a small side project. After some months, he has earned trust. He then shows the results with evidence, and the leaders agree to test his approach."
+    },
+    {
+      "number": 39,
+      "title": "Stir Up Waters to Catch Fish",
+      "short": "Angry people think badly. Stay calm and let others lose their calm.",
+      "defined": "Strong emotions cloud judgment and cause mistakes. If you stay calm while a rival gets upset, you gain a clear advantage. This law notes that making others angry is a tactic. It also reminds you to protect yourself from being provoked.",
+      "scenario": "In a tense talk with a vendor, the other side's lead starts to raise his voice and say things in a hurry. Monish is naturally calm and careful. He answers slowly and politely, with his notes in front of him. In the end, the vendor agrees to several things he never planned to give."
+    },
+    {
+      "number": 40,
+      "title": "Despise the Free Lunch",
+      "short": "Free offers often have hidden costs, like favors owed or lost freedom.",
+      "defined": "Something that looks free can come with hidden expectations, delays, or dependence. When you pay a fair price, you stay independent and your choices stay clear. Be careful with very generous offers. Ask what the giver expects in return, and value the freedom of owing nothing.",
+      "scenario": "A vendor offers Monish's team a free premium tool for one year. Monish reads the terms and finds that the tool would trap the team's data in a format that is hard to move. He says no. He suggests a low-cost open-source tool instead, so the team stays independent."
+    },
+    {
+      "number": 41,
+      "title": "Avoid Stepping into a Great Man's Shoes",
+      "short": "If you follow a famous leader, people compare you to them. Make your own path.",
+      "defined": "People measure a new leader against the glory of the one before. Copying the old leader rarely works. A better way is to go in a new direction and start your own style. Show respect for the past, but make it clear that a new chapter has begun.",
+      "scenario": "A popular tech lead leaves, and Monish takes over his team. He does not try to copy the old lead's outgoing style. Instead, he brings in calm written plans and focused work time. Soon the team judges Monish by his new results, not by comparing him with the past."
+    },
+    {
+      "number": 42,
+      "title": "Strike the Shepherd and the Sheep Will Scatter",
+      "short": "Trouble in a group often comes from one person. Deal with that person, and the group calms down.",
+      "defined": "In many conflicts, one leader or troublemaker drives the problem. Instead of fighting everyone, find the central person and deal with them. You can talk to them, move them, or reduce their influence. Without that center, the group loses direction and usually returns to normal.",
+      "scenario": "Monish notices that one engineer spreads negativity and leads complaints in the team. Morale is dropping week by week. Monish talks to him privately. With the manager's support, the engineer is moved to a different project. The rest of the team settles down, and the work improves."
+    },
+    {
+      "number": 43,
+      "title": "Work on the Hearts and Minds of Others",
+      "short": "Lasting influence comes from winning people's feelings and loyalty, not from force.",
+      "defined": "Pressure creates anger, but understanding creates willing followers. Learn what people care about, show that you understand them, and give them encouragement. A person who feels understood will support you even if you do not ask. They will also defend you when you are away.",
+      "scenario": "As the new tech lead, Monish spends his first month in one-on-one talks with each teammate. He listens to their goals and worries. He gives tasks that match each person's strengths and thanks them often. The team becomes loyal and works extra hours for him, with no pressure."
+    },
+    {
+      "number": 44,
+      "title": "Disarm and Infuriate with the Mirror Effect",
+      "short": "Copy what someone does to you. It can confuse them or show them their own behavior.",
+      "defined": "When you copy another person's actions or words, you show them how they look to others. This can lower their guard, or it can make them frustrated, because they see themselves. Used with care and restraint, it gives you insight and a stronger position.",
+      "scenario": "A stakeholder always replies slowly and vaguely to Monish's emails. Monish starts to reply in the same slow and vague way, but he keeps his tone polite. After a few rounds, the stakeholder sees the pattern and says sorry. From then on, the stakeholder promises clear and quick replies."
+    },
+    {
+      "number": 45,
+      "title": "Preach the Need for Change, but Never Reform Too Much at Once",
+      "short": "People like the idea of change but hate sudden disruption. Change things slowly.",
+      "defined": "Old habits feel safe, and sudden change feels like an attack. Praise the need for improvement, but present new methods in a familiar way. Move step by step. This lets people adjust at a comfortable pace without feeling that their whole world has fallen apart.",
+      "scenario": "Monish wants his team to move from manual releases to automation. He does not replace everything overnight. First, he adds one small script for a single service. People adjust easily. Over the next months, the rest of the team slowly accepts the full automated pipeline."
+    },
+    {
+      "number": 46,
+      "title": "Never Appear Too Perfect",
+      "short": "Looking perfect makes people jealous. Show a small, harmless flaw.",
+      "defined": "Perfection can create envy, and some people may try to pull you down. If you admit a small weakness or laugh at a little mistake, you seem more human. Pick flaws that do not hurt your skill, and help others feel comfortable around you.",
+      "scenario": "People know Monish as an engineer who rarely makes mistakes, and some teammates keep their distance. He begins to joke about how he loses track of time when he thinks deeply, and about his messy desk. Teammates feel closer to him and start inviting him to lunch more often."
+    },
+    {
+      "number": 47,
+      "title": "Do Not Go Past the Mark You Aimed For; In Victory, Learn When to Stop",
+      "short": "After a win, do not ask for too much. Know your goal and stop when you reach it.",
+      "defined": "After a win, people feel confident and want more, and that is often when they fall. Decide in advance what you want. When you get it, keep your ambition under control. It is wiser to protect your gains than to make new enemies.",
+      "scenario": "After winning a big internal project, Monish feels tempted to ask for control over the budgets of two more teams. His mentor tells him to stop and keep what he has. He agrees. He keeps good relations with everyone. A few months later, leaders offer him more responsibility on their own."
+    },
+    {
+      "number": 48,
+      "title": "Assume Formlessness",
+      "short": "Stay flexible so nobody can predict you, trap you, or easily attack you.",
+      "defined": "Fixed shapes and strict habits are easy targets. When you adapt to each situation and keep your strategy flexible, you are hard to read and hard to harm. Treat your plans as tools, not statues. Change them when conditions change, because quick adaptation is a strength that rivals cannot copy.",
+      "scenario": "When the company changes its strategy, Monish adapts instead of resisting, even though he prefers deep work. In a few weeks, he moves from backend services to data tools. Later, he moves to cloud security as needs change. Because he never clung to one role, he stays valuable through every reorganization."
+    }
+  ]
+}

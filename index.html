@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The 48 Laws of Power</title>
+  <meta name="description" content="Browse all 48 laws of power as a short line, a clear definition and a real-life scenario.">
+  <script>
+    // Apply the theme before first paint to avoid a flash.
+    (function () {
+      var theme = null;
+      try {
+        var stored = localStorage.getItem('theme');
+        if (stored === 'dark' || stored === 'light') theme = stored;
+      } catch (e) { /* storage unavailable */ }
+      if (!theme) {
+        theme = (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark';
+      }
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%91%91%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Kalam:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="brand" href="#/" aria-label="48 Laws of Power, home" title="48 Laws of Power">48 LOP</a>
+    <div class="header-actions">
+      <nav aria-label="Main">
+        <a href="#/" data-nav="index">Laws</a>
+        <a href="#/credits" data-nav="credits">Credits</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false" aria-label="Dark theme" title="Switch theme">
+        <span id="theme-icon" aria-hidden="true">☾</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main"></main>
+
+  <footer class="site-footer">
+    <p>Original summaries for learning. Developed by <strong>Monish Bairagi</strong>.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
